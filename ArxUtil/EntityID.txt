@@ -1,0 +1,16 @@
+4 = Wine, Fish, Bone, Fern, Wall Block, Torch, Dagger,
+	Rolling Pin, Wooden Shield, Long Sword, Short Sword,
+	Leather Chest, Aam, Taar, Piece of Wood, Spacium,
+	Morning Glory, Bag, Plated Helmet, Plated Chest,
+	Axe, Spell Scroll
+5 = Water Lily, Amikar's Rock
+8 = Goblin
+16 = Barrel, Chest, Flour Bag
+24 = Stuck(creatures)
+26 = Frozen(creatures)
+36 = Mushroom, Medicinal Herbs
+528 = Corpse
+1028 = Gold Coins
+4104 = A Man
+4616 = Sleeping Goblin Lord
+536870916 = Wooden Club
