@@ -7,6 +7,6 @@ Features include:
   - Vacuum Items
   - Vacuum Creatures
   - Vacuum Containers
-  - Freeze/Unfreeze Creature
-  - Telekinetic Move
-  - Telekinetic Rotate
+  - Freeze/Unfreeze Target Creature
+  - Telekinetic Move Target
+  - Telekinetic Rotate Target
