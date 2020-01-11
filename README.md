@@ -1,10 +1,7 @@
 # arxutil
-A small toolkit for Arx Libertatis 1.1.2
+A small toolkit for Arx Libertatis 1.1.2 (https://arx-libertatis.org/)
 
-(The game can be downloaded here: https://arx-libertatis.org/)
-
-
-Features include:
+Arxutil features include:
   - Toggle No Clip Mode (fly through walls)
   - Teleport to Nearest Entity
   - Vacuum Items
