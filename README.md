@@ -1,7 +1,7 @@
 # arxutil
-Some tools for Arx Libertatis 1.1.2
+A small toolkit for Arx Libertatis 1.1.2
 
-The tools are:
+Features include:
   - Toggle No Clip Mode
   - Teleport to Nearest Entity
   - Vacuum Items
