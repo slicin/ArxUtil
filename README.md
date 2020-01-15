@@ -1,4 +1,4 @@
-# arxutil
+# ArxUtil
 A small toolkit for Arx Libertatis 1.1.2 (https://arx-libertatis.org/)
 
 Arxutil features include:
